@@ -1,12 +1,12 @@
 import kalkulator
 
-print("Jeśli chcesz obliczyć objętość donuta wybierz '1'.")
-print("Jeśli chcesz obliczyć pole całkowite kuli wybierz '2'.")
-print("Jeśli chcesz obliczyć objętość piramidy wybierz '3'.")
-print("Jeśli chcesz obliczyć twierdzenie pitagorasa wybierz '4'.")
-print("Jeśli chcesz obliczyć poziom natężenia dźwięku wybierz '5'.")
-print("Jeśli chcesz obliczyć deltę wybierz '6'.")
-print("Jeśli chcesz obliczyć pole sześciokąta foremnego wybierz '7'.")
+print("Objętość donuta - 1")
+print("Pole całkowite kuli - 2")
+print("Objętość piramidy - 3")
+print("Twierdzenie pitagorasa - 4")
+print("Poziom natężenia dźwięku - 5")
+print("Delta - 6")
+print("Pole sześciokąta foremnego - 7")
 
 while True:
     inp = input()
